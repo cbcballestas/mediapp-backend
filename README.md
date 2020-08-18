@@ -1,4 +1,4 @@
-# Evaluación Final - Curso Java Full Stack (Proyecto Backend)
+# Evaluación Final - Curso Java Full Stack
 
 ## Aspectos a tener en cuenta ⚠
 
